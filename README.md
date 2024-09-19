@@ -3,7 +3,9 @@
 
 ## Planned Features:
 *[High Priority]*
-- Need to add more projects (everything from 3rd year uni and more)
+~~- Need to add more projects (everything from 3rd year uni and more)~~
+~~- Update everything to display that I am no longer a university student~~
+- Include current work projects
 
 *[Low Priority]*
 - Add a check box to enable the mouse trail
@@ -14,6 +16,7 @@
 ## Changelog:
 
 ### v1.1.0 - *June 30, 2024*
+- Added Google Analytics integration (for testing) *September 19, 2024*
 - Added Plerdy tracking integration (for testing)
 
 ### v1.0.5 - *May 30, 2024*
