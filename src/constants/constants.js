@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'VisualPromptBuilder',
-    description: "VisualPromptBuilder is my final year university project; a responsive web app designed to help nonverbal and cognitively disabled individuals communicate. It allows users to construct sentences using pictograms, which are then translated and vocalized in multiple languages.",
+    description: "VisualPromptBuilder is my final year university project/dissertation, graded at 90.5%; a responsive web app designed to help nonverbal and cognitively disabled individuals communicate. It allows users to construct sentences using pictograms, which are then translated and vocalized in multiple languages.",
     image: '/images/8.png',
     tags: ['TypeScript', 'Next.js', 'Web Speech APIs', 'Translation APIs'],
     source: '',
